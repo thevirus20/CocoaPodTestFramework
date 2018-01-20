@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = "Some some CocoaPodTestFramework CocoaPodTestFrameworkCocoaPodTestFrameworkCocoaPodTestFramework"
   s.homepage     = "http://google.com"
   s.license      = "MIT"
-  s.author       = { "Azam" => "som3@gmail.com" }
+  s.author       = { "Framework Author" => "som3@gmail.com" }
 #s.platform     = :ios
   s.platform    = :ios, "9.0"
   s.source       = { :git => "https://github.com/thevirus20/CocoaPodTestFramework.git", :tag => "v1.0.0" }
