@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "CocoaPodTestFramework"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "Some some CocoaPodTestFramework."
 
   s.description  = "Some some CocoaPodTestFramework CocoaPodTestFrameworkCocoaPodTestFrameworkCocoaPodTestFramework"
